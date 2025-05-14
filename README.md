@@ -79,11 +79,7 @@ https://user-images.githubusercontent.com/63580687/236466989-dc4c93f7-7f11-4bd6-
 
 ## About
 
-My name is [Ajaysinh Rathod](https://github.com/Ajaysinh1290). I'm studying Information Technology (2nd Year) in SOCET(Ahmedabad). Contact me for any improvement in this project.
-
-
-
-Email : ajaysinhrathod1290@gmail.com
+My name is Banshari Samal. I'm studying CSE(SOFTWARE) at C V Raman Global University. If you need help with this project, please contact me.
 
 # Social Media Accounts
 [![Instagram](https://img.icons8.com/fluent/40/000000/instagram-new.png)](https://www.instagram.com/ll_ajayrathod_ll/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
